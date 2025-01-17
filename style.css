@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.title{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+.container{
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+    
+    
+}
+.card{
+    border: solid black 1px;
+    display: inline-block;
+    width: 250px;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+   
+}
+.card__button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right:10px;
+    background-color: black;
+    color: white;
+}
+.card__two{
+
+    border: solid black 1px;
+    display: inline-block;
+    width: 250px;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+    vertical-align: top;
+    
+}
+.card__three{
+    border: solid black 1px;
+    display: inline-block;
+    width: 250px;
+    padding-left: 10px;
+    padding-top: 10px;
+    vertical-align: top;
+}
+.card__four{
+    border: solid black 1px;
+    display: inline-block;
+    width: 250px;
+    padding-left: 10px;
+    padding-top: 10px;
+    vertical-align: top;
+    
+   
+}
+.card__contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.card-contact__info{
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.card-contact__button{
+    background-color: yellow;
+    width: 500px;
+    height: 30px;
+    margin-left: 10px;
+}
+.title__desc{
+    color: grey;
+    margin-top: 10px;
+    padding: 10px;
+}
+.card-contact__input{
+    margin-left: 10px;
+    border: none;
+    
+}
